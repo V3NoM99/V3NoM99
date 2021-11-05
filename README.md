@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @V3NoM99
+- 👀 I’m interested in Computer Science Engineering, Robotics and Automated Systems.
+- 🌱 I’m currently learning Computer Science at Univr
