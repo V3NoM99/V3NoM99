@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @V3NoM99
-- 👀 I’m interested in Computer Science Engineering, Robotics and Automated Systems.
+- 👀 I’m interested in Software development and AI, especially Machine Learning and Deep Learning techniques for Business analysis and Image and Video-sequence analysis and classification.
 - 🌱 I’m currently learning Computer Science at Univr
